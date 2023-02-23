@@ -34,9 +34,9 @@ Fully annotated css file for coloring, sizing, aligning . . .
         position: "top_left",
         config: {
 			apiKey: "YOUR apiKey",   // <-- Your apiKey goes there!",
-			animal: "dog",           // barnyard, bird, cat, dog, horse, reptile, smallfurry (lowercase)
-			size: "M",               // small, medium, large, extra-large (lowercase)
-			sex: "F",                // male, female (lowercase)
+			animal: "cat",           // barnyard, bird, cat, dog, horse, reptile, smallfurry (lowercase)
+			size: "medium",               // small, medium, large, extra-large (lowercase)
+			sex: "female",                // male, female (lowercase)
 			location: "10306",       // the ZIP/postal code or city and state (Canada)
 			maxWidth: "300px",
 			useHeader: false,        // Must be true to use header
