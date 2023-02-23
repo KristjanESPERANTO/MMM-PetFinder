@@ -34,9 +34,9 @@ Fully annotated css file for coloring, sizing, aligning . . .
         position: "top_left",
         config: {
 			apiKey: "YOUR apiKey",   // <-- Your apiKey goes there!",
-			animal: "dog",           // bird, cat, dog, horse, reptile, smallfurry, barnyard (lowercase)
-			size: "M",               // S = Small, M = Medium, L = Large, XL = Extra-large (Uppercase)
-			sex: "F",                // M = Male, F = Female (Uppercase)
+			animal: "dog",           // barnyard, bird, cat, dog, horse, reptile, smallfurry (lowercase)
+			size: "M",               // small, medium, large, extra-large (lowercase)
+			sex: "F",                // male, female (lowercase)
 			location: "10306",       // the ZIP/postal code or city and state (Canada)
 			maxWidth: "300px",
 			useHeader: false,        // Must be true to use header
@@ -47,3 +47,4 @@ Fully annotated css file for coloring, sizing, aligning . . .
 ## Rescue a pet! They will be happier and so will you!
 
 ## Thanks, yet again, to SpaceCowboysDude for spotting my mistakes
+## Updated by PhantomOffKanagawa for newer API and working as of January 2023
