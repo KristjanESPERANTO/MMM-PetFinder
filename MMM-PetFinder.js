@@ -2,6 +2,7 @@
  * Module: MMM-Petfinder
  *
  * By Mykle1
+ * Updated By PhantomOffKanagawa
  *
  */
 Module.register("MMM-PetFinder", {
