@@ -23,7 +23,7 @@ Fully annotated css file for coloring, sizing, aligning . . .
 
 ## Installation of module and dependencies
 
-* `git clone https://github.com/mykle1/MMM-PetFinder.git` into `~/MagicMirror/modules` directory.
+* `git clone https://github.com/PhantomOffKanagawa/MMM-PetFinder` into `~/MagicMirror/modules` directory.
 
 * Free API key here - https://www.petfinder.com/user/register
 
